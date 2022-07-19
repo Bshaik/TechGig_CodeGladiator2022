@@ -1,5 +1,4 @@
 package OpenRound;
-import java.util.HashMap;
 import java.util.Scanner;
 
 public class WorldArmy {
@@ -64,8 +63,5 @@ public class WorldArmy {
 		String output = BT_Hr + " " + BT_Min;
 		
 		System.out.println(output);
-
-
 	}
-
 }
